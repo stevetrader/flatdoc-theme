@@ -4,7 +4,7 @@ Just a simple theme for [Flatdoc](http://ricostacruz.com/flatdoc/).
 
 ## How
 
-Just replace the style.css with this one and your all set.
+Just replace the default style.css with this one and your all set.
 
 ## Screenshot
 
