@@ -6,6 +6,6 @@ Just a simple theme for [Flatdoc](http://ricostacruz.com/flatdoc/).
 
 Just replace the default style.css with this one and your all set.
 
-## Screenshot
+## Demo
 
-Need to add this.
+You can check out a demo [here](http://stevetrader.com/post/flatdoc).
